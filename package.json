@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ogl": "^1.0.11",
+    "pdfjs-dist": "^3.11.174",
+    "react-pdf": "^7.7.3",
+    "react-router-dom": "^7.9.6"
+  }
+}
